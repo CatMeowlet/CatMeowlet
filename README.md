@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Laravel base BPOC and HNBO website.
+- 🌱 I’m currently learning micro framework.
+- 📫 How to reach me: Secret. :wink:
+- ⚡ Fun fact: I lazy. :octocat:
