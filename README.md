@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Laravel base BPOC and HNBO website.
 - 🌱 I’m currently learning micro framework.
 - 📫 How to reach me: Secret. :wink:
-- ⚡ Fun fact: I lazy. :octocat:
+- ⚡ Fun fact: I'm lazy. :octocat:
