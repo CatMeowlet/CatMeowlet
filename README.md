@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catmeowlet&label=Profile%20views&color=0e75b6&style=flat" alt="catmeowlet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catmeowlet" alt="catmeowlet" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catmeowlet&theme=onedark" alt="catmeowlet" /></a> </p>
 
 - 🔭 I’m currently working on [BPOC and HiPE website](http://bpoc.co.jp/)
 
